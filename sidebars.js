@@ -28,12 +28,12 @@ module.exports = {
       type: 'category',
       label: 'Tokenomics',
       items: [
-        'tokenomics/dump-token',
-        'tokenomics/token-distribution',
-        'tokenomics/reward-mechanism',
-        'tokenomics/inflation-control',
-        'tokenomics/governance',
-      ],
+        'Tokenomics/dump-token',
+        'Tokenomics/governance',
+        'Tokenomics/inflation-control',
+        'Tokenomics/reward-mechanism',
+        'Tokenomics/token-distribution',
+      ],         
     },
     {
       type: 'category',
