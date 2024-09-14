@@ -4,20 +4,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'DumpFun Docs',
-  tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Dumping Sh!tcoins made easy',
+  url: 'https://dumpfun.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Dumpfun.xyz', // Usually your GitHub org/user name.
+  projectName: 'DumpCoin', // Usually your repo name.
+  
   themeConfig: {
     navbar: {
-      title: 'Synchrony',
+      title: '',
       logo: {
-        alt: 'Synchrony Logo',
-        src: 'img/synchrony5.svg',
+        alt: 'Dumpcoin logo',
+        src: 'img/dumpfunlogo.svg',
       },
       items: [
         {
@@ -32,28 +33,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Welcome',
-              to: '/docs/welcome',
-            },
-          ],
-        },
-        {
           title: 'Community',
           items: [
-            // {
-            //   label: 'Stack Overflow',
-            //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            // },
-            // {
-            //   label: 'Discord',
-            //   href: 'https://discordapp.com/invite/docusaurus',
-            // },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Twitter / X',
+              href: 'https://x.com/dumpfunxyz',
             },
           ],
         },
@@ -62,12 +46,12 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Dumpfun.xyz, Inc.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -92,6 +76,8 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          remarkPlugins: [require('remark-math')],
+          rehypePlugins: [require('rehype-katex')],
           sidebarPath: require.resolve('./sidebars.js'),
           // editUrl:
           //   'https://github.com/facebook/docusaurus/edit/master/website/',
@@ -103,5 +89,13 @@ module.exports = {
       },
     ],
   ],
-  
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-+fGRpEblWkprN5V0jaTAY6Fgj3ck1EpQfTY96m6S5C9Q/zJjqvqKc5im5SzF++iZ',
+      crossorigin: 'anonymous',
+    },
+  ],
 };

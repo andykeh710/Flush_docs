@@ -1,23 +1,18 @@
----
-sidebar_label: 'Index Protocol'
-sidebar_position: 101
----
+# Governance Model
 
-# Synchrony Index Protocol
-## 5.1 Configurable
-Each of Synchrony’s indices are completely configurable, affording investment strategies with a high degree of specificity.
-A user can define the parameters for which an asset or strategy would be considered a candidate for inclusion into a pool; essentially delineating a dataset. The index can then be configured with a chosen weighting metric, minimum and maximum weights, rebalancing period and the minimum and maximum number of assets to be returned by the index.
-### 5.1.1 Whitelisting
-Whitelisting enables users to be even more specific with regards to the dataset they want an index to evaluate.
-For example, 
-## 5.2 Dynamic
-There are no on-chain implementations of a dynamic index, most existing as static allocations where rebalancing just returns a pool's weights to that static allocation. 
-Secondly, no on-chain implementations of an index-pegged pool implement dynamic compositions; the tokens chosen when the pool is initialized are what you are stuck with unless you create a new pool.
+DumpFun is committed to being a community-driven platform where users have a direct say in the platform's direction and development. Our governance model is designed to be transparent, fair, and decentralized, giving $DUMP token holders the power to influence key decisions.
 
-Synchrony is different, not only are the weights dynamically adjusted to track a proper implementation of an index the pool’s composition is also dynamic, the protocol has the authority to add and remove assets from the pool.
+## Decentralized Governance
+The governance of DumpFun is decentralized, meaning that no single entity has control over the platform's decisions. Instead, governance is carried out by the community of $DUMP token holders, who can propose, discuss, and vote on important issues.
 
-Our initial implementation takes a somewhat naive approach by first converting the underlying tokens to USDC and then trading USDC for the target assets.
+## Proposal System
+Any $DUMP token holder can submit a proposal for changes or new initiatives within the DumpFun platform. Proposals can cover a wide range of topics, including changes to the reward system, new feature development, partnerships, or platform upgrades. To ensure that proposals are well-thought-out and beneficial to the community, a minimum threshold of $DUMP tokens is required to submit a proposal.
 
-We have already planned and mapped out an improvement to be implemented after MVP.
-This improvement calculates the most efficient swap paths by weighting the priority of a swap by its total pool allocation.
-## 5.3 Powerful
+## Community Review
+Once a proposal is submitted, it enters a review period where the community can discuss and provide feedback. This period allows for open debate and consideration of the potential impact of the proposal. The community can engage in discussions through the official forums, Discord, or social media.
+
+## Voting Power
+Voting on proposals is weighted based on the number of $DUMP tokens a user holds. The more tokens a user has, the greater their voting power. This system ensures that those with a larger stake in the platform have a proportionate influence on its direction, while still allowing all token holders to have a voice.
+
+## Transparency
+All proposals, discussions, and voting results are publicly available on the blockchain. This transparency ensures that the governance process is fair, open, and accountable to the community.

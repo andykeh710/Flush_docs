@@ -2,12 +2,15 @@
 sidebar_position: 1
 ---
 
+<div align="center"> 
+
 # Welcome
-![DumpCoin Logo](/img/dumpcoin_logo.svg)
+
+<img src="/img/dumpcoin_logo.svg" alt="DumpCoin Logo" class="centered-image" />
 
 #### Dumping Sh!tcoins made easy
 
-*DumpFun LitePaper*
+</div>
 
 # Introduction
 

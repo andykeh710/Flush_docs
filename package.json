@@ -26,9 +26,12 @@
     "@svgr/webpack": "^8.1.0",
     "clsx": "^1.1.1",
     "file-loader": "^6.2.0",
+    "katex": "^0.16.11",
     "prism-react-renderer": "^1.2.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0",
     "svgo": "^3.3.2",
     "url-loader": "^4.1.1"
   },

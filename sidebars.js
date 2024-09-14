@@ -29,16 +29,22 @@ module.exports = {
       label: 'Tokenomics',
       items: [
         'tokenomics/dump-token',
+        'tokenomics/token-distribution',
         'tokenomics/reward-mechanism',
         'tokenomics/inflation-control',
         'tokenomics/governance',
       ],
     },
     {
-      type: 'doc',
+      type: 'category',
       label: 'Roadmap',
-      id: 'roadmap',
+      items: [
+        'roadmap/development-timeline',
+        'roadmap/future-features',
+        'roadmap/long-term-vision',
+      ],
     },
+    
     {
       type: 'doc',
       label: 'Solana',
@@ -53,6 +59,7 @@ module.exports = {
         'community-governance/voting-mechanisms',
       ],
     },
+    
     {
       type: 'category',
       label: 'Regulatory Compliance',
