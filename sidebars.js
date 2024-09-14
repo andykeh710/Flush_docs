@@ -16,12 +16,12 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'DumpFun Solution',
+      label: 'DumpCoin Solution',
       items: [
-        'dumpfun-solution/platform-features',
-        'dumpfun-solution/reward-calculation',
-        'dumpfun-solution/user-journey',
-        'dumpfun-solution/use-cases',
+        'dumpcoin-solution/platform-features',
+        'dumpcoin-solution/reward-calculation',
+        'dumpcoin-solution/user-journey',
+        'dumpcoin-solution/use-cases',
       ],
     },
     {
@@ -38,6 +38,11 @@ module.exports = {
       type: 'doc',
       label: 'Roadmap',
       id: 'roadmap',
+    },
+    {
+      type: 'doc',
+      label: 'Solana',
+      id: 'solana',
     },
     {
       type: 'category',
