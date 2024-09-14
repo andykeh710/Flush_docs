@@ -26,9 +26,9 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Tokenomics',
+      label: 'tokenomics',
       items: [
-        'Tokenomics/dump-token',
+        'Tokenomics/dump-token',  // lowercase 'tokenomics'
         'Tokenomics/governance',
         'Tokenomics/inflation-control',
         'Tokenomics/reward-mechanism',
