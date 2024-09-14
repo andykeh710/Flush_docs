@@ -26,14 +26,14 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'tokenomics',
+      label: 'Tokenomics',  // Correct casing
       items: [
-        'Tokenomics/dump-token',  // lowercase 'tokenomics'
+        'Tokenomics/dump-token',  // Correct casing
         'Tokenomics/governance',
         'Tokenomics/inflation-control',
         'Tokenomics/reward-mechanism',
         'Tokenomics/token-distribution',
-      ],         
+      ],
     },
     {
       type: 'category',
