@@ -29,4 +29,6 @@ The initial distribution of $DUMP tokens is strategically planned to ensure a fa
   - **Details**: These funds will be used to expand the platform’s user base, enhance brand visibility, and support global outreach efforts. Marketing efforts will focus on building a strong and vibrant community, fostering partnerships with other blockchain projects, and promoting the platform through various channels, including social media, events, and influencer marketing.
 
 
-![Tokenomics](/img/tokenomics.png)
+<div style="text-align: center;">
+  <img src="/img/tokenomics.png" alt="Tokenomics" style="width: 80%; max-width: 800px;" />
+</div>
