@@ -18,17 +18,6 @@ Where:
 - w: Weight assigned to each variable (subscript corresponds to the variable)
 
 
-### Variables Explained
-
-<!-- | Variable | Description | Weight |
-|----------|-------------|--------|
-| A        | Activity score based on platform interactions | w_{A} |
-| BD       | Burn/Dump ratio | w_{BD} |
-| HD       | Holding duration | w_{HD} |
-| L        | Liquidity provided | w_{L} |
-| MV       | Meme virality score | w_{MV} |
-| N        | Network growth contribution | w_{N} |
-| UE       | User engagement metrics | w_{UE} | -->
 
 ### How It Works
 
