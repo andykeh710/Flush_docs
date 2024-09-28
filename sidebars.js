@@ -45,11 +45,11 @@ module.exports = {
       ],
     },
     
-    {
-      type: 'doc',
-      label: 'Solana',
-      id: 'solana',
-    },
+    // {
+    //   type: 'doc',
+    //   label: 'Solana',
+    //   id: 'solana',
+    // },
     {
       type: 'category',
       label: 'Community and Governance',
