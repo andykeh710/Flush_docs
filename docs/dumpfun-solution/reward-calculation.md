@@ -62,10 +62,13 @@ For illustration, let's consider a simplified scenario with arbitrary values:
 - **Network Growth Contribution (N)**: 20
 - **User Engagement Metrics (UE)**: 80
 
-Assuming equal weights of 0.1 for simplicity
-w = 0.1
-R = (100 0.1) + (0.8 0.1) + (30 0.1) + (1000 0.1) + (50 0.1) + (5 0.1) + (75 0.1)
-R = 126.08 $DUMP tokens
+If we assume equal weights of 0.1 for all variables (for simplicity), the reward calculation would be:
+
+R = (100 * 0.1) + (0.8 * 0.1) + (30 * 0.1) + (1000 * 0.1) + (50 * 0.1) + (5 * 0.1) + (75 * 0.1)
+
+This would result in a reward of approximately 126.08 $DUMP tokens.
+
+Note: In practice, the weights and calculations are more complex and dynamically adjusted based on various factors and platform objectives.
 
 ## Normalization Functions
 
