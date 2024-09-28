@@ -1,4 +1,11 @@
 # Use Cases
+## Meme Coin Traders
+- **Scenario**: A trader actively buys and sells meme coins across multiple blockchains but faces difficulties due to fragmented liquidity and lack of cross-chain support.
+- **Solution**: Using DumpFun, the trader can seamlessly trade meme coins across supported blockchains from a single platform, access instant liquidity, and earn $DUMP tokens for their trading activities.
+
+## Cross-Chain Enthusiast
+- **Scenario**: A crypto enthusiast accumulates tokens across multiple blockchains but faces challenges in managing them.
+- **Solution**: Using DumpFun, the enthusiast can trade, burn, and manage their tokens across different blockchains from a single platform, earning $DUMP tokens and staying engaged with the community.
 
 ## Retail Investor
 - **Scenario**: A retail investor has been holding tokens purchased during a market cycle, which have lost value and become illiquid.

@@ -16,12 +16,12 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'DumpCoin Solution',
+      label: 'DumpFun Solution',
       items: [
-        'dumpcoin-solution/platform-features',
-        'dumpcoin-solution/reward-calculation',
-        'dumpcoin-solution/user-journey',
-        'dumpcoin-solution/use-cases',
+        'dumpfun-solution/platform-features',
+        'dumpfun-solution/reward-calculation',
+        'dumpfun-solution/user-journey',
+        'dumpfun-solution/use-cases',
       ],
     },
     {
