@@ -1,25 +1,76 @@
 # Reward Calculation
 
-## Key Variables
+The DumpFun platform uses a sophisticated algorithm to calculate rewards in **$DUMP** tokens. This system is designed to incentivize user engagement, promote long-term holding, and reward active participation in the ecosystem.
 
-- **A (Age of Token)**: Duration since the token was created.
-- **L (Liquidity)**: Current liquidity of the token.
-- **MV (Market Value)**: Current market value of the token.
-- **N (Notoriety)**: Reputation of the token, based on community feedback or reports of scams.
-- **HD (Holder Distribution)**: Concentration of tokens in the top 10 wallets.
-- **BD (Burn Demand)**: Current demand for burning the token.
-- **UE (User Engagement)**: Level of user activity on the platform.
 
-## Reward Equation
-The reward in $DUMP tokens is calculated using the weighted sum of these key variables:
+
+### Reward Equation
+
+The reward (R) in **$DUMP** tokens is calculated using a weighted sum of key variables:
 
 $$
 R = A w_{A} + BD w_{BD} + HD w_{HD} + L w_{L} + MV w_{MV} + N w_{N} + UE w_{UE}
 $$
 
+Where:
+
+- R: Total reward in $DUMP tokens
+- w: Weight assigned to each variable (subscript corresponds to the variable)
+
+
+### Variables Explained
+
+| Variable | Description | Weight |
+|----------|-------------|--------|
+| A        | Activity score based on platform interactions | w_{A} |
+| BD       | Burn/Dump ratio | w_{BD} |
+| HD       | Holding duration | w_{HD} |
+| L        | Liquidity provided | w_{L} |
+| MV       | Meme virality score | w_{MV} |
+| N        | Network growth contribution | w_{N} |
+| UE       | User engagement metrics | w_{UE} |
+
+### How It Works
+
+1. **Activity Score (A)**: Measures the frequency and quality of user interactions on the platform. Higher activity leads to a higher score.
+
+2. **Burn/Dump Ratio (BD)**: Compares the amount of tokens burned versus dumped. A higher ratio of burning to dumping increases rewards.
+
+3. **Holding Duration (HD)**: Rewards users for holding $DUMP tokens longer. The longer the hold, the higher the reward multiplier.
+
+4. **Liquidity Provided (L)**: Incentivizes users who provide liquidity to $DUMP pools. More liquidity provided results in higher rewards.
+
+5. **Meme Virality Score (MV)**: Rewards users for creating and sharing popular memes related to $DUMP. Viral memes earn higher scores.
+
+6. **Network Growth Contribution (N)**: Measures a user's contribution to expanding the $DUMP network, such as referrals or community building.
+
+7. **User Engagement Metrics (UE)**: Considers various engagement factors like voting participation, comment quality, and community contributions.
+
+### Dynamic Weighting
+
+The weights (w) for each variable are dynamically adjusted based on current market conditions and platform goals. This ensures the reward system remains balanced and aligned with the overall objectives of the DumpFun ecosystem.
+
+### Example Calculation
+
+For illustration, let's consider a simplified scenario with arbitrary values:
+
+- **Activity Score (A)**: 100
+- **Burn/Dump Ratio (BD)**: 0.5
+- **Holding Duration (HD)**: 1 year
+- **Liquidity Provided (L)**: $100,000
+- **Meme Virality Score (MV)**: 50
+- **Network Growth Contribution (N)**: 20
+- **User Engagement Metrics (UE)**: 80
+
+Assuming equal weights of 0.1 for simplicity
+w = 0.1
+R = (100 0.1) + (0.8 0.1) + (30 0.1) + (1000 0.1) + (50 0.1) + (5 0.1) + (75 0.1)
+R = 126.08 $DUMP tokens
+
 ## Normalization Functions
 
 - **normalize(A)**: 
+
   $$
   \frac{Current_{Date} - Token_{Creation Date}}{Max_{Age}}
   $$

@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Effective Date: [September, 11, 2024]
+**Effective Date: [September, 11, 2024]**
 
 Welcome to **DumpFun** ("we," "us," or "our")! These Terms of Service ("Terms") govern your access to and use of our platform, services, and applications (collectively, the "Platform"). By accessing or using the Platform, you agree to be bound by these Terms and our Privacy Policy.
 
