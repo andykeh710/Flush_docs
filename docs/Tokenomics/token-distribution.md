@@ -30,6 +30,6 @@ The initial distribution of $DUMP tokens is strategically planned to ensure a fa
 
 
 
-<div style="text-align: center;">
-  <img src="/img/tokenomics.png" alt="Tokenomics" style="width: 80%; max-width: 800px;" />
+<div style={{textAlign: 'center'}}>
+  <img src="/img/tokenomics.png" alt="Tokenomics" style={{width: '80%', maxWidth: '800px'}} />
 </div>
