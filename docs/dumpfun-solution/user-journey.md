@@ -10,11 +10,11 @@ Once connected, users can view a consolidated list of their meme coins across al
 
 ##  Step 3: Trade, Burn, or Provide Liquidity
 
-    **  Trade Meme Coins**: Users can buy, sell, or bid on meme coins across supported blockchains with instant cross-chain liquidity. Advanced trading tools and real-time analytics assist in making informed decisions.
+    **Trade Meme Coins**: Users can buy, sell, or bid on meme coins across supported blockchains with instant cross-chain liquidity. Advanced trading tools and real-time analytics assist in making informed decisions.
 
     **Burn Underperforming Tokens**: Users can select meme coins they wish to burn to declutter their portfolio. The platform provides information on the eligibility for $DUMP rewards based on the tokens' criteria.
 
-    **  Provide Liquidity**: Users can contribute to liquidity pools across different blockchains directly from the platform, earning rewards for their contributions.
+    **Provide Liquidity**: Users can contribute to liquidity pools across different blockchains directly from the platform, earning rewards for their contributions.
 
 ## Step 4: Verify and Confirm Transactions
 
