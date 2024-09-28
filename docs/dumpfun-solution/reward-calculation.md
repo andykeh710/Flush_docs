@@ -20,7 +20,7 @@ Where:
 
 ### Variables Explained
 
-| Variable | Description | Weight |
+<!-- | Variable | Description | Weight |
 |----------|-------------|--------|
 | A        | Activity score based on platform interactions | w_{A} |
 | BD       | Burn/Dump ratio | w_{BD} |
@@ -28,7 +28,7 @@ Where:
 | L        | Liquidity provided | w_{L} |
 | MV       | Meme virality score | w_{MV} |
 | N        | Network growth contribution | w_{N} |
-| UE       | User engagement metrics | w_{UE} |
+| UE       | User engagement metrics | w_{UE} | -->
 
 ### How It Works
 
