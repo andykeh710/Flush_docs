@@ -10,7 +10,7 @@ To ensure the long-term sustainability and value of the $DUMP token, several inf
 
 - **Dynamic Reward Adjustments**: The reward system includes a dynamic multiplier that can adjust the rate of $DUMP token issuance based on platform activity, market conditions, and token supply. This helps balance token distribution and control inflation.
 
-- **Staking and Lock-Up Periods**: Encouraging users to stake their $DUMP tokens or lock them up for extended periods effectively reduces the circulating supply. Users are incentivized with staking rewards and access to premium features.
+- **Staking and Lock-Up Periods**: Encouraging users to stake their $DUMP tokens or lock them up for extended periods effectively reduces the circulating supply. Users are incentivized with staking rewards, eligibility for a share of daily platform fees, and access to premium features.
 
 - **Governance Oversight**: The community, through the DAO, can vote on proposals related to inflation control measures, such as adjusting reward rates or implementing additional token burns.
 

@@ -1,25 +1,50 @@
 # Reward Mechanism
 
-The reward mechanism on DumpFun is designed to encourage active participation, sustained engagement, and contributions to the platform’s growth. Users can earn $DUMP tokens through various activities that align with the platform's goals and community values. The primary ways users can earn rewards include:
+The reward mechanism on DumpFun is designed to encourage active participation, sustained engagement, and contributions to the platform’s growth. Users can earn $DUMP tokens through various activities that align with the platform's goals and community values.
 
 ## Ways to Earn $DUMP Tokens
-- **Trading Activities**: Users earn rewards by trading meme coins across supported blockchains on the DumpFun platform. This incentivizes liquidity and trading volume.
-- **Burning Tokens**: Users can burn low-value or unwanted tokens from any supported blockchain, decluttering their portfolios and earning $DUMP tokens in return.
-- **Staking Rewards**: Users who stake their $DUMP tokens can earn additional rewards over time. Staking rewards are distributed from a portion of the platform’s revenue or reserve funds, providing an ongoing incentive for users to hold and stake their tokens.
-- **Providing Liquidity**: Users who contribute to liquidity pools across different blockchains receive $DUMP tokens as rewards, enhancing overall platform liquidity.
-- **Referral Program**: Users can earn additional $DUMP tokens by referring others to the platform.
-- **Community Engagement**: Active participants in the DumpFun community can earn extra rewards in the form of $DUMP tokens.
-- **Content Creation**: Users who create and share valuable content, such as tutorials, guides, or educational posts, can earn $DUMP tokens.
-- **Participation in Beta Testing**: Users who participate in beta testing of new features or products on the platform can earn $DUMP tokens.
-- **Governance Participation**: Users who actively participate in governance by voting on proposals or submitting their own can earn additional $DUMP tokens.
-- **Event Participation**: DumpFun regularly hosts events, both online and in-person, where users can earn $DUMP tokens by participating.
-- **Leaderboard Achievements**: Users who achieve high rankings on the community leaderboards can earn bonus $DUMP tokens.
-- **Social Media Engagement**: Users can earn rewards for promoting DumpFun on social media platforms.
-- **Collaborative Projects**: Users who initiate or participate in collaborative projects that benefit the DumpFun community can earn $DUMP tokens.
-- **Seasonal and Special Rewards**: DumpFun may offer seasonal or special rewards for participation during certain times of the year or for specific events.
+
+- **Trading Activities**: Earn rewards by trading meme coins across supported blockchains on the DumpFun platform, incentivizing liquidity and trading volume.
+
+- **Burning Tokens**: Burn low-value or unwanted tokens from any supported blockchain, decluttering portfolios and earning $DUMP tokens in return.
+
+- **Staking Rewards**: Stake $DUMP tokens to earn passive income, unlock premium features, and gain eligibility for a share of daily platform fees.
+
+- **Providing Liquidity**: Contribute to liquidity pools across different blockchains and receive $DUMP tokens as rewards, enhancing overall platform liquidity.
+
+- **Referral Program**: Invite friends to the platform and earn additional $DUMP tokens for each successful referral.
+
+- **Community Engagement**: Earn extra rewards by actively participating in the DumpFun community through discussions, events, and governance.
+
+- **Content Creation**: Create and share valuable content, such as tutorials, guides, or educational posts, to earn $DUMP tokens.
+
+- **Participation in Beta Testing**: Participate in beta testing of new features or products on the platform to earn rewards.
+
+- **Governance Participation**: Earn additional $DUMP tokens by actively voting on proposals or submitting your own.
+
+- **Event Participation**: Join in online and in-person events hosted by DumpFun to earn $DUMP tokens.
+
+- **Leaderboard Achievements**: Achieve high rankings on community leaderboards to earn bonus $DUMP tokens.
+
+- **Social Media Engagement**: Promote DumpFun on social media platforms and earn rewards.
+
+- **Collaborative Projects**: Initiate or participate in collaborative projects that benefit the DumpFun community to earn $DUMP tokens.
+
+- **Seasonal and Special Rewards**: Participate during certain times of the year or specific events to earn seasonal or special rewards.
 
 ## Reward Calculation
 
-Rewards are calculated based on a combination of factors that reflect the value and impact of user activities. The reward equation incorporates variables such as trading volume, token age, liquidity, market value, notoriety, holder distribution, liquidity provision, and user engagement.
+Rewards are calculated based on a combination of factors that reflect the value and impact of user activities. The reward system incorporates variables such as:
 
-Note: For detailed explanation of the variables and normalization functions, please refer to the Reward Calculation section.
+- **Age of Token**: Older tokens may yield different rewards compared to newer ones.
+
+- **Burned Liquidity**: The amount of liquidity removed from the market through burning.
+
+- **Token Value**: The market value of the tokens traded or burned.
+
+- **Special Burning Bonuses**: Limited-time bonuses for burning specific tokens or participating in special events.
+
+- **Leverage Multiplier**: Users can enhance rewards by adding leverage to their flushes, potentially amplifying their earnings.
+
+Note: For a detailed explanation of the variables and normalization functions, please refer to the Reward Calculation section.
+

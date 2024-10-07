@@ -4,32 +4,36 @@ The initial distribution of $DUMP tokens is strategically planned to ensure a fa
 
 ## Proposed Breakdown of Initial Distribution:
 
-- **Community Rewards: 40%**
+- **Community Rewards: 25% (Vested Over Time)**
   - **Purpose**: Reserved for rewarding users who actively participate in the platform by burning underperforming tokens, staking, or engaging in community activities.
-  - **Details**: This allocation ensures that the majority of tokens are in the hands of the active user base. It incentivizes participation, enhances user engagement, and rewards those who contribute to the platform’s growth. Community rewards will be distributed over time to ensure ongoing engagement and to prevent rapid inflation.
+  - **Details**: This allocation ensures that a significant portion of tokens is in the hands of the active user base. Tokens will be vested over time to promote sustained engagement and prevent rapid inflation.
 
-- **Development Fund: 25%**
-  - **Purpose**: Allocated to the ongoing development, maintenance, and enhancement of the DumpFun platform.
-  - **Details**: This includes funding for smart contract development, security audits, infrastructure upgrades, and expanding cross-chain compatibility. The development fund ensures that the platform can continue to innovate and adapt to new challenges, supporting long-term sustainability. Funds will be managed transparently, with regular updates provided to the community on how they are being utilized.
+- **Development Fund: 20% (Unlocked at TGE)**
+  - **Purpose**: Allocated for the ongoing development, maintenance, and enhancement of the DumpFun platform.
+  - **Details**: Funds will be used for platform enhancement, security audits, cross-chain integration, and the development of leverage trading features.
 
-- **Founders and Team: 10%**
-  - **Purpose**: Reserved for the founding team and early contributors who have played a key role in bringing DumpFun to life.
-  - **Details**: These tokens will be vested over a period of time, typically ranging from 1 to 3 years, to align the team’s incentives with the long-term success of the platform. The vesting schedule ensures that the team remains committed to the platform’s growth and prevents the immediate liquidation of tokens, which could negatively impact the token’s value.
+- **Founders and Team: 10% (Vested Over 36 Months)**
+  - **Purpose**: Reserved for the founding team and early contributors who have been instrumental in bringing DumpFun to life.
+  - **Details**: Tokens will be vested over 36 months with a 6-month cliff, aligning the team's incentives with the long-term success of the platform.
 
-- **Strategic Partners and Advisors: 10%**
-  - **Purpose**: Allocated to strategic partners and advisors who provide valuable support, expertise, and resources to help grow and scale the platform.
-  - **Details**: Similar to the founders and team allocation, these tokens will have vesting periods to ensure that partners and advisors remain aligned with the platform’s long-term success. Strategic partners may include key industry players, technology providers, and marketing experts who can contribute to the platform’s expansion and adoption.
+- **Strategic Partners and Advisors: 10% (Vested Over 24 Months)**
+  - **Purpose**: Allocated to strategic partners and advisors providing valuable support, expertise, and resources.
+  - **Details**: Tokens will be vested over 24 months with a 3-month cliff, ensuring alignment with the platform's growth.
 
-- **Liquidity and Exchanges: 10%**
+- **Liquidity Provision: 10% (Unlocked at TGE)**
   - **Purpose**: Reserved for providing liquidity on decentralized exchanges and facilitating the trading of $DUMP tokens.
-  - **Details**: This allocation ensures that there is sufficient liquidity for users to buy and sell $DUMP tokens, supporting a healthy and active market. A portion of these tokens may be used for initial exchange offerings (IEOs) or to incentivize liquidity providers through yield farming programs. Ensuring strong liquidity is crucial for maintaining the token’s stability and attractiveness to investors.
+  - **Details**: Ensures sufficient liquidity for users to buy and sell $DUMP tokens, supporting a healthy and active market.
 
-- **Marketing and Community Growth: 5%**
+- **Marketing and Community Growth: 5% (Unlocked at TGE)**
   - **Purpose**: Allocated to marketing campaigns, community-building activities, and partnerships aimed at driving user adoption and engagement.
-  - **Details**: These funds will be used to expand the platform’s user base, enhance brand visibility, and support global outreach efforts. Marketing efforts will focus on building a strong and vibrant community, fostering partnerships with other blockchain projects, and promoting the platform through various channels, including social media, events, and influencer marketing.
+  - **Details**: Funds will support user acquisition, campaigns, and community events to expand the platform's user base.
 
-
+- **Fundraising Rounds (Investors): 20% (Unlocked at TGE)**
+  - **Purpose**: Allocated to investors participating in the fundraising rounds to support the project's funding requirements.
+  - **Details**: Investors' tokens are fully unlocked at the Token Generation Event (TGE), providing immediate liquidity.
 
 <div style={{textAlign: 'center'}}>
   <img src="/img/tokenomics.png" alt="Tokenomics" style={{width: '80%', maxWidth: '800px'}} />
 </div>
+
+---
